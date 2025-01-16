@@ -40,6 +40,10 @@ button:hover {
     background-color: #ba68c8;
 }
 
+.photo-container img{
+    width: 70%;
+}
+
 section {
     margin: 20px 0;
     background-color: rgba(255, 255, 255, 0.8);
